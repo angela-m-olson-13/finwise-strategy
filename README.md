@@ -1,8 +1,8 @@
-# FinWise, A Product-Led Growth Strategy
+# FinWise, A Product-Led Growth Strategy, By Angela Olson
 
 > _(one-line growth thesis)_
 
-_Your name · Product Experimentation · date_
+_Angela Olson · Product Experimentation · date_
 
 This repo is my final project for the **Product Experimentation Certification**, a growth strategy for FinWise. One folder per module; this README is **The Story** that ties them together, and the **Final Project Deliverables Builder** pulls your module files into your final presentation.
 
